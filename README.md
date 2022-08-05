@@ -9,4 +9,4 @@ Application that shows promotions on Steam, how much you are saving up, and you 
 
 # Output example
 
-![alt text](https://raw.githubusercontent.com/deboraheinig/SharkAPI/blob/master/app/src/main/res/drawable/screenshot.PNG)
+![alt text](../master/app/src/main/res/drawable/screenshot.PNG)
