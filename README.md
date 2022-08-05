@@ -9,4 +9,4 @@ Application that shows promotions on Steam, how much you are saving up, and you 
 
 # Output example
 
-<![alt text](../master/app/src/main/res/drawable/screenshot.PNG) class="center">
+<![alt text](../master/app/src/main/res/drawable/screenshot.PNG)
